@@ -1,0 +1,5 @@
+1:fayik--veznedaroglu--22--erkek--10000
+2:ahmet--seferi--23--erkek--20000
+3:hilal --ensari--22--kadın--20000
+4:beren --can--21--kadın--20000
+5:esra--der--24--kadın--12000
